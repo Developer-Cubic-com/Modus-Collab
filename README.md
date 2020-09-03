@@ -27,3 +27,7 @@ When adding your code, please note that we've divided the repository into techno
 ## Legal
 
 We're currently working on a legal statement, but the gist of what we want is to be able to use contributed code as part of the Modus Design System without any constraints. More to follow on this.
+
+A note on dependencies:
+
+Please be aware of what external library dependencies submitted code relies upon and ensure they follow Cubic security guidelines and are available for use under licensing agreements.
