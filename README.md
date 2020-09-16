@@ -1,6 +1,6 @@
 # Modus-Collab
 
-This is the 3rd party collaboration site for the Modus Design System. Out goal here is to allow people from the Cubic community to share software they've built for Modus. In this document, you'll learn about the Modus Design System, ideal component types, and how to contribute your own software.
+This is the 3rd party collaboration site for the Modus Design System. Our goal here is to allow people from the Cubic community to share software they've built for Modus. In this document, you'll learn about the Modus Design System, ideal component types, and how to contribute your own software.
 
 ## What is Modus?
 
